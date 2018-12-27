@@ -266,4 +266,5 @@ public class OnlineCTStores {
 	public void printReceipt() {
 		// TO DO
 	}
+//updated version
 }
